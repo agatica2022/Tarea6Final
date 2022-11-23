@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239740670928",
+    "project_id": "tarea6-d49a2",
+    "storage_bucket": "tarea6-d49a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239740670928:android:d48dbc8c5c578f3750dfd5",
+        "android_client_info": {
+          "package_name": "com.agatica2021.tarea6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239740670928-h3biafj854ta3kv9848rn9dk4uhup1h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agatica2021.tarea6",
+            "certificate_hash": "f719bd533784f7b90e7b8fd278a7110246650eab"
+          }
+        },
+        {
+          "client_id": "239740670928-eoj94bpf0a1a4h7q1cqoh6kcc7vec2aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SfrkA_xMUkQfXKBm5vYV8VB0VPv56IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239740670928-eoj94bpf0a1a4h7q1cqoh6kcc7vec2aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
